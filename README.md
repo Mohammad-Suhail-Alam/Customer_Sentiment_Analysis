@@ -105,5 +105,5 @@ This project is open-source and available under the MIT License.
 
 Feel free to submit issues or pull requests to enhance the project!
 
-📧 For any questions, reach out at suhailhasmi13@fmail.com
+📧 For any questions, reach out at suhailhasmi13@gmail.com
 
